@@ -1,6 +1,8 @@
 # BOT2.0
 
 KASWU -AI Valmennusbotin Dokumentaatio
+
+
 Johdanto
 
 Tämä dokumentaatio käsittelee laaja-alaista ohjelmointiprojektia, jonka tavoitteena on toteuttaa monipuolinen ohjelmisto moduulissa, joka keskittyy ohjelmistokehittämisen perusteisiin. Projektissa on otettu huomioon tietoturva ja projektinhallinta, ja siinä hyödynnetään erilaisia ohjelmointikieliä ja teknologioita kuten HTML, CSS, JavaScript ja Python.
