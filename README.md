@@ -4,9 +4,11 @@ KASWU -AI Valmennusbotin Dokumentaatio
 Johdanto
 
 Tämä dokumentaatio käsittelee laaja-alaista ohjelmointiprojektia, jonka tavoitteena on toteuttaa monipuolinen ohjelmisto moduulissa, joka keskittyy ohjelmistokehittämisen perusteisiin. Projektissa on otettu huomioon tietoturva ja projektinhallinta, ja siinä hyödynnetään erilaisia ohjelmointikieliä ja teknologioita kuten HTML, CSS, JavaScript ja Python.
+
 Projektin Tavoitteet
 
 Tämän projektin päätavoitteena on tarjota kokonaisvaltainen esimerkki ohjelmistokehitysprosessista, joka huomioi tietoturvanäkökohdat sekä kattavan projektinhallinnan. Lisäksi projektissa käytetään eri ohjelmointikieliä ja -tekniikoita, mikä mahdollistaa monipuolisen ohjelmiston toteuttamisen. Projektin puitteissa käytettyjen ohjelmointikielien ja -tekniikoiden sisällyttäminen auttaa ymmärtämään niiden roolia ja toimintaa ohjelmistossa.
+
 Käytetyt Ohjelmointikielet ja Teknologiat
 
 Tässä projektissa käytetään useita erilaisia ohjelmointikieliä ja teknologioita, jotka mahdollistavat monipuolisen ohjelmiston toteutuksen:
@@ -20,6 +22,7 @@ Tämän dokumentaation edetessä käsitellään yksityiskohtaisesti, miten kunki
 Tietoturva: HTML, CSS, JavaScript ja Pythonin rooli
 
 Tietoturva on projektissamme huomioitu. HTML, CSS, JavaScript ja Python ovat kaikki keskeisiä komponentteja tietoturvan näkökulmasta. Esimerkiksi, HTML-sivujen kautta käyttäjien syöttämät tiedot on asianmukaisesti puhdistettava ja tarkistettava mahdollisten haitallisten skriptien estämiseksi (cross-site scripting, XSS). Pythonissa käytetään tärkeiden tietojen suojaamiseen .env -tiedostoa.
+
 Projektinhallinta ja Versionhallinta
 
 Käytämme Git-versionhallintaa tallentaaksemme ja seurataksemme koodimuutoksia. Gitin avulla voimme helposti hallita koodin versioita, tehdä yhteistyötä tiimin jäsenten kanssa ja palauttaa aikaisempia versioita tarvittaessa.
