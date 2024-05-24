@@ -85,7 +85,8 @@ Käyttö
 
 Tekninen Tuki
 
-Jos kohtaat ongelmia ohjelman asentamisessa tai käytössä, ota yhteyttä tekniseen tukeen sähköpostitse osoitteeseen kaswuoy@gmail.com.
+Jos kohtaat ongelmia ohjelman asentamisessa tai käytössä, ota yhteyttä tekniseen tukeen sähköpostitse osoitteesssa kaswuoy@gmail.com.
+
 Yhteenveto
 
-Tämä dokumentaatio antaa yleiskuvan chatbot-ohjelman toiminnasta, rakenteesta ja asennuksesta. Seuraamalla ohjeita voit asentaa ohjelman ja käyttää sitä vuorovaikutukseen tekoälybotin kanssa. Ohjelma tarjoaa helppokäyttöisen käyttöliittymän ja mahdollistaa reaaliaikaisen vuorovaikutuksen botin kanssa.
+Tämä dokumentaatio antaa yleiskuvan chatbot-ohjelman toiminnasta, rakenteesta ja asennuksesta. Seuraamalla ohjeita voit asentaa ohjelman ja keskustella tekoälybotin kanssa. Ohjelma tarjoaa helppokäyttöisen käyttöliittymän ja mahdollistaa  reaaliaikaisen keskustelun tekoälyn kanssa.
